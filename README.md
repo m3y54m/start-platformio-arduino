@@ -20,9 +20,11 @@ https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide
 ## 3: Create a PlatformIO Project for Arduino
 
 - Create a New Project
+
 ![](images/platformio1.png)
 
 - Configure it for Arduino Uno
+
 ![](images/platformio2.png)
 
 
